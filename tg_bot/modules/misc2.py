@@ -177,7 +177,7 @@ SLAP_TEMPLATES = (
     "{user1} ora ora's {user2}.",
     "{user1} muda muda's {user2}.",
     "{user2} was turned into a Jojo reference!",  
-    "{user1} hits {user2} with a Kubikiribōchō",
+    "{user1} hits {user2} with {item}.",
 )
 PING_STRING = (
     "PONG!!",
